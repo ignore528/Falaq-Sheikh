@@ -1,10 +1,10 @@
-import time, asyncio
+import time
 import random
 from pyrogram import filters
 from pyrogram.enums import ChatType
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup, Message
 from youtubesearchpython.__future__ import VideosSearch
-
+ 
 import config
 from SONALI_MUSIC import app
 from SONALI_MUSIC.misc import _boot_
@@ -24,69 +24,36 @@ from SONALI_MUSIC.utils.formatters import get_readable_time
 from SONALI_MUSIC.utils.inline import help_pannel, private_panel, start_panel
 from config import BANNED_USERS
 from strings import get_string
-
+ 
 NEXIO = [
-    "https://files.catbox.moe/ij3b0p.jpg",
-    "https://files.catbox.moe/lna9eh.jpg",
-    "https://files.catbox.moe/8i1ugj.jpg",
-    "https://files.catbox.moe/raxhof.jpg",
-    "https://files.catbox.moe/0z6diw.jpg",
-    "https://files.catbox.moe/s8lc80.jpg",
-    "https://files.catbox.moe/wyq373.jpg",
-    "https://files.catbox.moe/7dwxl5.jpg",
-    "https://files.catbox.moe/94v7qh.jpg",
-    "https://files.catbox.moe/ij3b0p.jpg",
-    "https://files.catbox.moe/vxnw8u.jpg",
-    "https://files.catbox.moe/vxnw8u.jpg",
-    "https://files.catbox.moe/8i1ugj.jpg",
-    "https://files.catbox.moe/ztzajy.jpg",
-    "https://files.catbox.moe/kskt56.jpg",
+          "https://files.catbox.moe/jf0yqq.jpg",
+          "https://files.catbox.moe/7w0ec2.jpg",
+          "https://files.catbox.moe/dfj1l8.jpg",
+          "https://files.catbox.moe/e7pbwj.jpg",
+          "https://files.catbox.moe/bta4qz.jpg",
+          "https://files.catbox.moe/1a1pu2.jpg",
+          "https://files.catbox.moe/xvirq4.jpg",
+          "https://files.catbox.moe/8dyj3u.jpg",
+          "https://files.catbox.moe/x63yfj.jpg",
+          "https://files.catbox.moe/3rtw9v.jpg",
+          "https://files.catbox.moe/0u6db2.jpg",
 ]
-
-
-KRITI_STKR = [
-    "CAACAgUAAxkBAAIBO2i1Spi48ZdWCNehv-GklSI9aRYWAAJ9GAACXB-pVds_sm8brMEqHgQ",
-    "CAACAgUAAxkBAAIBOmi1Sogwaoh01l5-e-lJkK1VNY6MAAIlGAACKI6wVVNEvN-6z3Z7HgQ",
-    "CAACAgUAAxkBAAIBPGi1Spv1tlx90xM1Q7TRNyL0fhcJAAKDGgACZSupVbmJpWW9LmXJHgQ",
-    "CAACAgUAAxkBAAIBPWi1SpxJZKxuWYsZ_G06j_G_9QGkAAIsHwACdd6xVd2HOWQPA_qtHgQ",
-    "CAACAgUAAxkBAAIBPmi1Sp4QFoLkZ0oN3d01kZQOHQRwAAI4FwACDDexVVp91U_1BZKFHgQ",
-    "CAACAgUAAxkBAAIBP2i1SqFoa4yqgl1QSISZrQ4VuYWgAAIpFQACvTqpVWqbFSKOnWYxHgQ",
-    "CAACAgUAAxkBAAIBQGi1Sqk3OGQ2jRW2rN6ZVZ7vWY2ZAAJZHQACCa-pVfefqZZtTHEdHgQ",
-]
-
-EFFECT_IDS = [
-    5046509860389126442,
-    5107584321108051014,
-    5104841245755180586,
-    5159385139981059251,
-]
-
-emojis = ["🥰", "🔥", "💖", "😁", "😎", "🌚", "❤️‍🔥", "♥️", "🎉", "🙈"]
-
+ 
 @app.on_message(filters.command(["start"]) & filters.private & ~BANNED_USERS)
 @LanguageStart
 async def start_pm(client, message: Message, _):
     await add_served_user(message.from_user.id)
-    
-    await message.react(random.choice(emojis))
-
-    sticker = await message.reply_sticker(random.choice(KRITI_STKR))
-    await asyncio.sleep(1)
-    await sticker.delete()
-
     if len(message.text.split()) > 1:
         name = message.text.split(None, 1)[1]
-
-        if name.startswith("help"):
+        if name[0:4] == "help":
             keyboard = help_pannel(_)
             return await message.reply_photo(
                 random.choice(NEXIO),
-                has_spoiler=True,
                 caption=_["help_1"].format(config.SUPPORT_CHAT),
                 reply_markup=keyboard,
+                has_spoiler=True
             )
-
-        if name.startswith("sud"):
+        if name[0:3] == "sud":
             await sudoers_list(client=client, message=message, _=_)
             if await is_on_off(2):
                 return await app.send_message(
@@ -94,8 +61,7 @@ async def start_pm(client, message: Message, _):
                     text=f"{message.from_user.mention} ᴊᴜsᴛ sᴛᴀʀᴛᴇᴅ ᴛʜᴇ ʙᴏᴛ ᴛᴏ ᴄʜᴇᴄᴋ <b>sᴜᴅᴏʟɪsᴛ</b>.\n\n<b>ᴜsᴇʀ ɪᴅ :</b> <code>{message.from_user.id}</code>\n<b>ᴜsᴇʀɴᴀᴍᴇ :</b> @{message.from_user.username}",
                 )
             return
-
-        if name.startswith("inf"):
+        if name[0:3] == "inf":
             m = await message.reply_text("🔎")
             query = (str(name)).replace("info_", "", 1)
             query = f"https://www.youtube.com/watch?v={query}"
@@ -109,7 +75,6 @@ async def start_pm(client, message: Message, _):
                 channel = result["channel"]["name"]
                 link = result["link"]
                 published = result["publishedTime"]
-
             searched_text = _["start_6"].format(
                 title, duration, views, published, channellink, channel, app.mention
             )
@@ -122,45 +87,49 @@ async def start_pm(client, message: Message, _):
                 ]
             )
             await m.delete()
-            return await app.send_photo(
+            await app.send_photo(
                 chat_id=message.chat.id,
                 photo=thumbnail,
-                has_spoiler=True,
-                message_effect_id=random.choice(EFFECT_IDS),
                 caption=searched_text,
                 reply_markup=key,
+                has_spoiler=True,
             )
             if await is_on_off(2):
                 return await app.send_message(
                     chat_id=config.LOGGER_ID,
                     text=f"{message.from_user.mention} ᴊᴜsᴛ sᴛᴀʀᴛᴇᴅ ᴛʜᴇ ʙᴏᴛ ᴛᴏ ᴄʜᴇᴄᴋ <b>ᴛʀᴀᴄᴋ ɪɴғᴏʀᴍᴀᴛɪᴏɴ</b>.\n\n<b>ᴜsᴇʀ ɪᴅ :</b> <code>{message.from_user.id}</code>\n<b>ᴜsᴇʀɴᴀᴍᴇ :</b> @{message.from_user.username}",
                 )
-
     else:
-        Sona = await message.reply_text(f"**ʜᴇʏ ʙᴧʙʏ {message.from_user.mention}**")
-        await asyncio.sleep(0.4)
-        await Sona.edit_text("**ɪ ᴧᴍ ʏᴏᴜʀ ᴏᴡɴ ᴍᴜsɪᴄ ʙᴏᴛ..🦋**")
-        await asyncio.sleep(0.4)
-        await Sona.edit_text("**ʜᴏᴡ ᴧʀᴇ ʏᴏᴜ ᴛᴏᴅᴧʏ.....??**")
-        await asyncio.sleep(0.4)
-        await Sona.delete()
-
         out = private_panel(_)
+        baby = await message.reply_text(f"**__ᴅɪηɢ ᴅᴏηɢ.🥀__**")
+        await baby.edit_text(f"**__ᴅɪηɢ ᴅᴏηɢ..🥀__**")
+        await baby.edit_text(f"**__ᴅɪηɢ ᴅᴏηɢ...🥀__**")
+        await baby.edit_text(f"**__ᴅɪηɢ ᴅᴏηɢ....🥀__**")
+        await baby.edit_text(f"**__ᴅɪηɢ ᴅᴏηɢ.....🥀__**")
+        await baby.edit_text(f"**__sᴛᴧʀᴛɪηɢ.❤️‍🔥__**")
+        await baby.edit_text(f"**__sᴛᴧʀᴛɪηɢ..❤️‍🔥__**")
+        await baby.edit_text(f"**__sᴛᴧʀᴛɪηɢ...❤️‍🔥__**")
+        await baby.edit_text(f"**__sᴛᴧʀᴛɪηɢ....❤️‍🔥__**")
+        await baby.edit_text(f"**__sᴛᴧʀᴛɪηɢ.....❤️‍🔥__**")
+        await baby.edit_text(f"**__ʙσᴛ sᴛᴧʀᴛєᴅ.💤__**")
+        await baby.edit_text(f"**__ʙσᴛ sᴛᴧʀᴛєᴅ..💤__**")
+        await baby.edit_text(f"**__ʙσᴛ sᴛᴧʀᴛєᴅ...💤__**")
+        await baby.edit_text(f"**__ʙσᴛ sᴛᴧʀᴛєᴅ....💤__**")
+        await baby.edit_text(f"**__ʙσᴛ sᴛᴧʀᴛєᴅ.....💤__**")
+        await baby.delete()
+        
         await message.reply_photo(
             random.choice(NEXIO),
-            has_spoiler=True,
-            message_effect_id=random.choice(EFFECT_IDS),
             caption=_["start_2"].format(message.from_user.mention, app.mention),
             reply_markup=InlineKeyboardMarkup(out),
+            has_spoiler=True,
         )
         if await is_on_off(2):
             return await app.send_message(
                 chat_id=config.LOGGER_ID,
-                text=f"{message.from_user.mention} ᴊᴜsᴛ sᴛᴀʀᴛᴇᴅ ᴛʜᴇ ʙᴏᴛ.\n\n<b>ᴜsᴇʀ ɪᴅ :</b> <code>{message.from_user.id}</code>\n<b>ᴜsᴇʀɴᴀᴍᴇ :</b> @{message.from_user.username}",
+                text=f"{message.from_user.mention} 🚀 Just Started the Bot!.\n\n<b>🆔 Telegram ID :</b> <code>{message.from_user.id}</code>\n<b>🔗 Username:  :</b> @{message.from_user.username}",
             )
-
-
-
+ 
 @app.on_message(filters.command(["start"]) & filters.group & ~BANNED_USERS)
 @LanguageStart
 async def start_gp(client, message: Message, _):
@@ -168,13 +137,12 @@ async def start_gp(client, message: Message, _):
     uptime = int(time.time() - _boot_)
     await message.reply_photo(
         random.choice(NEXIO),
-        has_spoiler=True,
         caption=_["start_1"].format(app.mention, get_readable_time(uptime)),
         reply_markup=InlineKeyboardMarkup(out),
+        has_spoiler=True,
     )
     return await add_served_chat(message.chat.id)
-
-
+ 
 @app.on_message(filters.new_chat_members, group=-1)
 async def welcome(client, message: Message):
     for member in message.new_chat_members:
@@ -200,11 +168,10 @@ async def welcome(client, message: Message):
                         disable_web_page_preview=True,
                     )
                     return await app.leave_chat(message.chat.id)
-
+ 
                 out = start_panel(_)
                 await message.reply_photo(
                     random.choice(NEXIO),
-                    has_spoiler=True,
                     caption=_["start_3"].format(
                         message.from_user.mention,
                         app.mention,
@@ -212,16 +179,9 @@ async def welcome(client, message: Message):
                         app.mention,
                     ),
                     reply_markup=InlineKeyboardMarkup(out),
+                    has_spoiler=True,
                 )
                 await add_served_chat(message.chat.id)
                 await message.stop_propagation()
         except Exception as ex:
             print(ex)
-
-# ======================================================
-# ©️ 2025-26 All Rights Reserved by Kirti 😎
-
-# 🧑‍💻 Developer : t.me/lll_APNA_BADNAM_BABY_lll
-# 🔗 Source link : https://github.com/Badnam019
-# 📢 Telegram channel : t.me/lll_APNA_BADNAM_BABY_lll
-# =======================================================
