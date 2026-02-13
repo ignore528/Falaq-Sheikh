@@ -19,7 +19,7 @@ LOGGER_ID = int(getenv("LOGGER_ID", -1003670001038))
 OWNER_ID = int(getenv("OWNER_ID", 7995626429))
 HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
-UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/AVENGERSOWNER1/AP-Lover",)
+UPSTREAM_REPO = getenv("UPSTREAM_REPO", "https://github.com/ignore528/Falaq-Sheikh",)
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv("GIT_TOKEN", None)
 
@@ -29,8 +29,8 @@ YT_API_KEY = getenv("YT_API_KEY" , 'xbit_2zRb8ED0Z_cdCpcHkrSaS8FzdrHxbWNC') ## Y
 
 
 PRIVACY_LINK = getenv("PRIVACY_LINK", "https://telegra.ph/Privacy-Policy-for-YukkiMusic-08-30")
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/kriti_bot_update")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/KRITI_SUPPORT_GROUP")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+ijVUQc7TNEUwNmNl")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+ijVUQc7TNEUwNmNl")
 AUTO_LEAVING_ASSISTANT = getenv("AUTO_LEAVING_ASSISTANT", "False")
 AUTO_LEAVE_ASSISTANT_TIME = int(getenv("ASSISTANT_LEAVE_TIME", "9000"))
 SONG_DOWNLOAD_DURATION = int(getenv("SONG_DOWNLOAD_DURATION", "9999999"))
