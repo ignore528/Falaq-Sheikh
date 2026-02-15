@@ -7,13 +7,13 @@ import httpx
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 start_txt = """**
-<u>❃ Wҽʅƈσɱҽ Tσ Jαɳι Rҽρσʂ ❃</u>
+<u>❃ 𝐖𝐞𝐥𝐜𝐨𝐦𝐞 𝐭𝐨 𝐢𝐠𝐧𝐨𝐫𝐞 𝐑𝐞𝐩𝐨𝐬 ❃</u>
  
 ✼ 𝙍𝙚𝙥𝙤 𝙏𝙤 𝙉𝙝𝙞 𝙈𝙞𝙡𝙚𝙜𝙖 😁
  
 ❉  पत्थर की मूरत के आगे सिर मत झुका जब कुछ ना बचे तो शैतान से नाता बाना !!  
 
-✼ || [ᴊᴀɴɪ 𔘓 ᴍᴜꜱɪᴄ™♪ 𝚁𔘓𝙿 ](https://t.me/Jani_Music_Robot?start=_tgr_I548BOJjYTg1)) ||
+✼ || [ꜰ𐓘ʟ𐓘ᴋ 𔘓 ᴍᴜꜱɪᴄ™♪ [ 𐓘𔘓ꜰ ](https://t.me/FalaqMusicbot?start=_tgr_I548BOJjYTg1)) ||
  
 ❊ ʀᴜη 24x7 ʟᴧɢ ϝʀєє ᴡɪᴛʜσᴜᴛ sᴛσᴘ**
 """
@@ -28,11 +28,11 @@ async def start(_, msg):
           InlineKeyboardButton("✙ ᴧᴅᴅ ϻє вᴧʙʏ ✙", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")
         ],
         [
-          InlineKeyboardButton("• Update •", url="https://t.me/Selfish_Jani_Lover"),
-          InlineKeyboardButton("• Support •", url="https://t.me/+a3O_RK3xMbA1ZGZl"),
+          InlineKeyboardButton("• Update •", url="https://t.me/FalakAbout"),
+          InlineKeyboardButton("• Support •", url="https://t.me/falakUpdate"),
           ],
 [
-InlineKeyboardButton("• ϻᴧɪη ʙσᴛ •", url=f"https://t.me/Jani_Music_Robot"),
+InlineKeyboardButton("• ϻᴧɪη ʙσᴛ •", url=f"https://t.me/FalaqMusicbot"),
 
         ]]
     
