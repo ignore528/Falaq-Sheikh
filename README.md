@@ -3,7 +3,7 @@
  ⁭⁬⁭⁬⁭⁬⁭⁬⁭𝗙 𝗔 𝗟 𝗔 𝗤 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="center">
- ⁭⁬⁭⁬⁭⁬⁭⁬⁭𝗙 𝗔 𝗟 𝗔 𝗤 
+ ⁭⁬⁭⁬⁭⁬⁭⁬ 𝗧𝗘𝗔𝗠 ⁭𝗙𝗔𝗟𝗔𝗤 𝗕𝗢𝗧𝗦
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
