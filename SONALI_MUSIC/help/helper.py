@@ -1,4 +1,4 @@
-# MADE BY - ALPHA BABY
+# MADE BY - IGNORE BABY
 
 class Helper(object):
     HELP_M = '''```
@@ -27,7 +27,7 @@ class Helper(object):
 
 ❍ /ask [ǫυєʀʏ] : sєᴧʀᴄʜ ᴛʜє ᴧηʏ ᴛʏᴘє ǫυєsᴛɪση
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹𝛅𝛕᧘ʀᴋ˼](t.me/spicewine)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ » [˹IGNORE_SHEIKH˼](t.me/IGNORE_SHEIKH)**
 '''
 
 
@@ -42,7 +42,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /google ʜɪɴᴅɪ sᴏɴɢs```
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹𝛅𝛕᧘ʀᴋ˼](t.me/spicewine)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹IGNORE_SHEIKH˼](t.me/IGNORE_SHEIKH)**
 '''
 
     HELP_03 = '''```
@@ -50,14 +50,14 @@ class Helper(object):
 **❖ sᴇɴᴅ ᴡʜɪsᴘᴇʀ ᴍᴇssᴀɢᴇ ❖**
 
 ```
- єxᴧϻᴘʟє : @StarkMusicRobot @spicewine I love You 😘
+ єxᴧϻᴘʟє : @FalaqMusicbot @IGNORE_SHEIKH I love You 😘
 ```
 
 <u>**❖ ᴛєxᴛ ᴛσ ᴠσɪᴄє**</u>
 
 **❍ /tts : [ᴛєxᴛ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹𝛅𝛕᧘ʀᴋ˼](t.me/spicewine)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹IGNORE_SHEIKH˼](t.me/IGNORE_SHEIKH)**
 '''
 
 
@@ -70,7 +70,7 @@ class Helper(object):
 ❍ /groupinfo : ɢєᴛ ʏσᴜʀ ɢʀσᴜᴘ ɪηғσ `ᴇx :- /groupinfo ɢʀᴏᴜᴘ ᴜsᴇʀɴᴀᴍᴇ`
 ❍ /status : ɢєᴛ ʏσᴜʀ ɢʀσᴜᴘ sᴛᴧᴛᴜs
 
-𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹𝛅𝛕᧘ʀᴋ˼](t.me/spicewine)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹IGNORE_SHEIKH˼](t.me/IGNORE_SHEIKH)**
 '''
 
 
@@ -83,7 +83,7 @@ class Helper(object):
 ```
 ❖ єxᴧϻᴘʟє : /font badnam Baby```
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹𝛅𝛕᧘ʀᴋ˼](t.me/spicewine)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹IGNORE_SHEIKH˼](t.me/IGNORE_SHEIKH)**
 '''
 
     HELP_06 = '''```
@@ -91,7 +91,7 @@ class Helper(object):
 
 **❍ /math ➠ sσʟᴠєs ϻᴧᴛʜєϻᴧᴛɪᴄᴧʟ ᴘʀσʙʟєϻs ᴧηᴅ ǫυᴧᴛɪσηs
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹𝛅𝛕᧘ʀᴋ˼](t.me/spicewine)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹IGNORE_SHEIKH˼](t.me/IGNORE_SHEIKH)**
 '''
 
 
@@ -106,7 +106,7 @@ class Helper(object):
 ❍ /shayari ➠ ʀᴧηᴅσϻ sʜᴧʏᴧʀɪ ᴛᴧɢ 
 ❍ /shstop ⇴ sᴛσᴘ ᴛᴧɢ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹𝛅𝛕᧘ʀᴋ˼](t.me/spicewine)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹IGNORE_SHEIKH˼](t.me/IGNORE_SHEIKH)**
 '''
 
 
@@ -117,7 +117,7 @@ class Helper(object):
 ❍ /cute ➠ ᴄʜєᴄᴋ ʏσυʀ ᴄυᴛєηєss.
 ❍ /love ➠ ᴧᴅᴅ ᴛᴡᴏ ηᴧϻєs ᴧηᴅ sєє ʟσᴠᴇ ᴘσssɪʙɪʟɪᴛʏ !! `ʟɪᴋᴇ ʀᴧᴊᴧ + sσηᴧ.`
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹𝛅𝛕᧘ʀᴋ˼](t.me/spicewine)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹IGNORE_SHEIKH˼](t.me/IGNORE_SHEIKH)**
 '''
 
 
@@ -131,7 +131,7 @@ class Helper(object):
 
 ❍ /hastag : [ᴛєxᴛ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹𝛅𝛕᧘ʀᴋ˼](t.me/spicewine)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹IGNORE_SHEIKH˼](t.me/IGNORE_SHEIKH)**
 '''
 
 
@@ -143,7 +143,7 @@ class Helper(object):
 ❍ /kang ➠ ʀєᴘʟʏ ᴧηʏ sᴛɪᴄᴋєʀ & ᴄʀєᴀᴛє ʏσᴜʀ sᴛɪᴄᴋєʀ ᴘᴧᴄᴋ
 ❍ /st ➠ ғɪηᴅ ᴏʀɪɢɪηᴧʟ sᴛɪᴄᴋєʀ.
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹𝛅𝛕᧘ʀᴋ˼](t.me/spicewine)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹IGNORE_SHEIKH˼](t.me/IGNORE_SHEIKH)**
 '''
 
 
@@ -161,7 +161,7 @@ class Helper(object):
 ❍ /truth [sєηᴅs ᴧ ʀᴧηᴅσϻ ᴛʀυᴛʜ sᴛʀɪηɢ]
 ❍ /dare : [sєηᴅs ᴧ ʀᴧηᴅσϻ ᴅᴧʀє sᴛʀɪηɢ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹𝛅𝛕᧘ʀᴋ˼](t.me/spicewine)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹IGNORE_SHEIKH˼](t.me/IGNORE_SHEIKH)**
 '''
 
 
@@ -172,7 +172,7 @@ class Helper(object):
 ❍ /q : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє
 ❍ /q r : ᴄʀєᴧᴛє ᴧ ǫυσᴛє ғʀσϻ ᴛʜє ϻєssᴧɢє ᴡɪᴛʜ ʀєᴘʟʏ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹𝛅𝛕᧘ʀᴋ˼](t.me/spicewine)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹IGNORE_SHEIKH˼](t.me/IGNORE_SHEIKH)**
 '''
 
 
@@ -184,7 +184,7 @@ class Helper(object):
 ❍ /truth : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴛʀυᴛʜ sᴛʀɪηɢ
 ❍ /dare : sєηᴅs ᴧ ʀᴧηᴅσϻ ᴅᴧʀє sᴛʀɪηɢ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹𝛅𝛕᧘ʀᴋ˼](t.me/spicewine)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹IGNORE_SHEIKH˼](t.me/IGNORE_SHEIKH)**
 '''
 
 
@@ -229,7 +229,7 @@ class Helper(object):
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹𝛅𝛕᧘ʀᴋ˼](t.me/spicewine)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹IGNORE_SHEIKH˼](t.me/IGNORE_SHEIKH)**
 '''
 
     HELP_15 = '''```
@@ -238,7 +238,7 @@ class Helper(object):
 **❍ /kick <userhandle> : ᴋɪᴄᴋs ᴧ υsєʀ συᴛ σғ ᴛʜє ɢʀσυᴘ, (ᴠɪᴧ ʜᴧηᴅʟє, σʀ ʀєᴘʟʏ)
 ❍ /kickme: ᴋɪᴄᴋs ᴛʜє υsєʀ ᴡʜσ ɪssυєᴅ ᴛʜє ᴄσϻϻᴧηᴅ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹𝛅𝛕᧘ʀᴋ˼](t.me/spicewine)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹IGNORE_SHEIKH˼](t.me/IGNORE_SHEIKH)**
 '''
 
 
@@ -255,7 +255,7 @@ class Helper(object):
 ```
 ᴛʜɪs ᴄσϻϻᴧηᴅ ᴡɪʟʟ ᴡσʀᴋ σηʟʏ ɪғ ʏσυ ɢɪᴠє ʙᴧη ʀɪɢʜᴛs ᴛσ ᴛʜє ʙσᴛ ᴡɪᴛʜ ᴧᴅϻɪη```
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹𝛅𝛕᧘ʀᴋ˼](t.me/spicewine)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹IGNORE_SHEIKH˼](t.me/IGNORE_SHEIKH)**
 '''
 
 
@@ -285,7 +285,7 @@ class Helper(object):
 ❍ /unbanall ➠ ᴜηʙᴧη ᴧʟʟ ʙᴧη ϻєϻʙєʀs
 ❍ /unpinall ➠ ᴜηᴘɪη ᴧʟʟ ᴘɪη ᴍєssᴧɢᴇ**
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹𝛅𝛕᧘ʀᴋ˼](t.me/spicewine)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹IGNORE_SHEIKH˼](t.me/IGNORE_SHEIKH)**
 '''
 
 
@@ -295,7 +295,7 @@ class Helper(object):
 **❍ /staff ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ sᴛᴧғғ ϻєϻʙєʀs
 ❍ /bots ➠ ᴅɪsᴘʟᴧʏs ᴛʜє ʟɪsᴛ σғ ʙσᴛs ɪη ᴛʜє ɢʀσυᴘ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹𝛅𝛕᧘ʀᴋ˼](t.me/spicewine)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹IGNORE_SHEIKH˼](t.me/IGNORE_SHEIKH)**
 '''
 
 
@@ -307,7 +307,7 @@ class Helper(object):
 ❍ /setphoto ➠ sєᴛs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 ❍ /removephoto ➠ ʀєϻσᴠєs ᴛʜє ɢʀσυᴘ ᴘʜσᴛσ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹𝛅𝛕᧘ʀᴋ˼](t.me/spicewine)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹IGNORE_SHEIKH˼](t.me/IGNORE_SHEIKH)**
 '''
 
 
@@ -318,7 +318,7 @@ class Helper(object):
 **❍ /zombies ➠ ʀєϻσᴠєs ᴧᴄᴄ ᴅєʟєᴛєᴅ ϻєϻʙєʀs ғʀσϻ ᴛʜє ɢʀσυᴘ
 
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹𝛅𝛕᧘ʀᴋ˼](t.me/spicewine)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹IGNORE_SHEIKH˼](t.me/IGNORE_SHEIKH)**
 '''
 
 
@@ -333,7 +333,7 @@ class Helper(object):
 ❍ /basket [ʙᴧsᴋєᴛʙᴧʟʟ ɢᴧϻє]
 ❍ /football [ғσσᴛʙᴧʟʟ ɢᴧϻє]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹𝛅𝛕᧘ʀᴋ˼](t.me/spicewine)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹IGNORE_SHEIKH˼](t.me/IGNORE_SHEIKH)**
 '''
 
 
@@ -344,21 +344,21 @@ class Helper(object):
 ❍ /imposter on
 ❍ /imposter off
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹𝛅𝛕᧘ʀᴋ˼](t.me/spicewine)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹IGNORE_SHEIKH˼](t.me/IGNORE_SHEIKH)**
 '''
 
     HELP_23 = '''```
 ❖ sᴧηɢ ϻᴧᴛᴧ ᴄσϻϻᴧηᴅ ❖```
 **❍ /sg ➠ υsєʀ ηᴧϻє ᴧηᴅ υsєʀηᴧϻє ʜɪsᴛσʀʏ
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹𝛅𝛕᧘ʀᴋ˼](t.me/spicewine)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹IGNORE_SHEIKH˼](t.me/IGNORE_SHEIKH)**
 '''
 
     HELP_24 = '''```
 ❖ ᴛʀᴧηsʟᴧᴛєs ❖```
 **❍ /tr ➠ ᴄᴧη ᴛʀᴧηꜱʟᴧᴛє ϻυʟᴛɪᴘʟє ʟᴧηɢυᴧɢєs
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹𝛅𝛕᧘ʀᴋ˼](t.me/spicewine)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹IGNORE_SHEIKH˼](t.me/IGNORE_SHEIKH)**
 '''
 
 
@@ -369,7 +369,7 @@ class Helper(object):
 
 `єxᴧϻᴘʟє : /git TEAMKRITI`
 
-**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹𝛅𝛕᧘ʀᴋ˼](t.me/spicewine)**
+**❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹IGNORE_SHEIKH˼](t.me/IGNORE_SHEIKH)**
 '''
 
 
@@ -380,7 +380,7 @@ class Helper(object):
 ❍ /tgm [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 ❍ /tgt [ʀєᴘʟʏ ᴛσ ᴧηʏ ϻєᴅɪᴧ]
 
-❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹𝛅𝛕᧘ʀᴋ˼](t.me/spicewine)**
+❖ 𝐏ᴏᴡᴇʀᴇᴅ 𝖡ʏ »  [˹IGNORE_SHEIKH˼](t.me/IGNORE_SHEIKH)**
 '''
     HELP_PROMOTION = '''
 **─────────────────────────
@@ -397,32 +397,32 @@ class Helper(object):
 ─────────────────────────
 ʙєsᴛ ᴧηᴅ ᴄʜєᴧᴘ ɪη ᴛєʟєɢʀᴧϻ 400-500+ ϻєϻʙєʀs ɪη σηє ᴘʀσϻσᴛɪση ɢυʀᴧηᴛєє...
 ─────────────────────────
-❍ ᴄσηᴛᴧᴄᴛ -  [˹𝛅𝛕᧘ʀᴋ˼](t.me/spicewine)
+❍ ᴄσηᴛᴧᴄᴛ -  [˹IGNORE_SHEIKH˼](t.me/IGNORE_SHEIKH)
 ─────────────────────────**
 '''
     HELP_ABOUT = '''
 **─────────────────────────
-│ ᴡєʟᴄσϻє ᴛσ ˹ [˹𝛅𝛕᧘ʀᴋ˼](t.me/spicewine)˼ ʙσᴛ sᴛᴧᴛυs │
+│ ᴡєʟᴄσϻє ᴛσ ˹ [˹IGNORE_SHEIKH˼](t.me/IGNORE_SHEIKH)˼ ʙσᴛ sᴛᴧᴛυs │
 ─────────────────────────
        ❖ │ ʀєᴧʟ ᴛɪϻє ʙσᴛ's sᴛᴧᴛυs │❖
 ─────────────────────────
-╭⎋ [˹ S ᴛ ᥈ ʀ ᴋ | M ᥙ s ɪ ᴄ ˼ ](https://t.me/StarkMusicRobot) : ᴧʟɪᴠє 
+╭⎋ [˹ ꜰ 𐓘 ʟ 𐓘 ᴋ | M ᥙ s ɪ ᴄ ˼ ](https://t.me/FalaqMusicbot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
        
-╭⎋ [ꜱɪᴢᴢᴜ 𔘓 ᴍᴜꜱɪᴄ 𝙰𝚍𝚍 𝙵𝚛𝚎𝚎](https://t.me/SizzuMusicBot) : ᴧʟɪᴠє 
+╭⎋ [ꜰ𐓘ʟ𐓘ᴋ 𔘓 ᴍᴜꜱɪᴄ ](https://t.me/ishqdilmusicbot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 
-╭⎋ [ᴜʀᴠɪ 𔘓 ᴍᴜꜱɪᴄ [𝙰𝚍𝚍 𝙵𝚛𝚎𝚎]](https://t.me/Urvimusicbot) : ᴧʟɪᴠє 
+╭⎋ [ ꜰ𐓘ʟ𐓘ᴋ 𔘓 ᴍᴜꜱɪᴄ ](https://t.me/FalaqMusicbot) : ᴧʟɪᴠє 
 ╰⊚ υᴘᴛɪϻє : 12ʜ:58ϻ:20s | ᴄᴘυ : 5.0% | 
        υsᴧɢє : 24 | ᴧssɪsᴛᴧηᴛs : 01
 ─────────────────────────
-⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](t.me/spicewine)
+⊚ ʙσᴛ sᴛᴧᴛυs ᴧηᴅ ϻσʀє ʙσᴛs - [ᴄʟɪᴄᴋ ʜєʀє](t.me/IGNORE_SHEIKH)
 ─────────────────────────
 ⊚ ʟᴧsᴛ ᴄʜєᴄᴋєᴅ ση : ᴅᴧᴛє : 10 ᴊᴀɴ 2025 
 ─────────────────────────
-❍ 𝐏ᴏᴡєʀєᴅ 𝖡ʏ »  [˹𝛅𝛕᧘ʀᴋ˼](t.me/spicewine)
+❍ 𝐏ᴏᴡєʀєᴅ 𝖡ʏ »  [˹IGNORE_SHEIKH˼](t.me/IGNORE_SHEIKH)
 ─────────────────────────**
 '''
     HELP_ALLBOT = '''
@@ -437,10 +437,10 @@ class Helper(object):
 ● ᴇηᴊᴏʏ ғєєʟ ғʀєє ϻᴜsɪᴄ ᴡɪᴛʜ 𝐊ʀɪᴛɪ.
 ● ᴧᴅᴅ ϻє ηᴏᴡ ʙᴧʙʏ ɪɴ ʏᴏᴜʀ ɢʀσᴜᴘs.
 ─────────────────────────
-❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [˹Jani Update˼ 💞](https://t.me/Selfish_Jani_Lover)
-❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [ᴡᴏʀʟᴅ-ᴄʜᴀᴛ](https://t.me/best_friends_world_chat)
-❖ ʙᴏᴛ σᴡηєʀ ➥ [ᴄʟɪᴄᴋ-ʜєʀє](t.me/spicewine)
-❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ-ʜєʀє](t.me/spicewine)
+❖ υᴘᴅᴧᴛєs ᴄʜᴧηηєʟ ➥ [˹ꜰ𐓘ʟ𐓘ᴋ Update˼ 💞](https://t.me/falakUpdate)
+❖ sυᴘᴘσʀᴛ ᴄʜᴧᴛ ➥ [ꜰ𐓘ʟ𐓘ᴋ Update](https://t.me/FalakAbout)
+❖ ʙᴏᴛ σᴡηєʀ ➥ [ᴄʟɪᴄᴋ-ʜєʀє](t.me/IGNORE_SHEIKH)
+❖ ʀєᴘσ ʟɪηᴋ ➥ [ᴄʟɪᴄᴋ-ʜєʀє](t.me/IGNORE_SHEIKH)
 ─────────────────────────
 ❖ ᴄʟɪᴄᴋ ση ᴛʜє ʜєʟᴩ ʙυᴛᴛση ᴛσ ɢєᴛ ɪηғσ
    ᴧʙσυᴛ ϻʏ ϻσᴅυʟєs ᴧηᴅ ᴄσϻϻᴧηᴅs...!!
